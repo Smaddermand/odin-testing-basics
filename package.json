@@ -2,9 +2,10 @@
   "name": "odin-test",
   "version": "1.0.0",
   "description": "",
-  "main": "sum.js",
+  "main": "capitalize.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "ISC",
